@@ -60,7 +60,7 @@ rooms = {
 }
 
 # lv68+ rooms. Uncomment if these need to be included
-rooms |= {("Surveyor's Study", 1), ('Royal Meeting Room', 1)}
+# rooms |= {("Surveyor's Study", 1), ('Royal Meeting Room', 1)}
 
 # Return tier of the target room. 0 if temple does not contain target
 # Strategy: Always upgrade unless the other option has a higher priority.
